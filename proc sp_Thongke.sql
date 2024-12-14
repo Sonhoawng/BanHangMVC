@@ -1,5 +1,6 @@
 ﻿Create proc sp_Thongke
 as
+
 BEGIN
 	DECLARE @SoTruyCapGanNhat int
 	DECLARE @Count int
