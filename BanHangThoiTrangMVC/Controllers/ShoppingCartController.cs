@@ -12,6 +12,7 @@ namespace BanHangThoiTrangMVC.Controllers
 {
     public class ShoppingCartController : Controller
     {
+    
         private ApplicationDbContext db = new ApplicationDbContext();
         // GET: ShoppingCart
         public ActionResult Index()
