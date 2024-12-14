@@ -11,6 +11,7 @@ namespace BanHangThoiTrangMVC.Migrations
         {
             AutomaticMigrationsEnabled = false;
         }
+        
 
         protected override void Seed(BanHangThoiTrangMVC.Models.ApplicationDbContext context)
         {
